@@ -14,7 +14,7 @@
   website: "https://lzahq.tech"
 
 - host: majesticbank
-  email: info@majesticbank.so
+  email: "info@majesticbank.so"
   website: "https://majesticbank.sc/"
 
 - host: ofrnxmr
@@ -42,7 +42,7 @@
   github: selsta
 
 - host: sethforprivacy
-  email: sethforprivacy.vqhyi@simplelogin.com
+  email: "sethforprivacy.vqhyi@simplelogin.com"
   reddit: sethforprivacy
   twitter: sethforprivacy
   website: "https://sethforprivacy.com/"

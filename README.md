@@ -9,8 +9,8 @@ A node may be added if:
 A node may be removed if:
 - The host cannot be contacted
 - The host no longer wants it listed
-- The node enables RPC payments
-- The node consistently fails to relay transaction
+- The node has RPC payments enabled
+- The node consistently fails to relay transactions
 - The node fails to synchronize to the latest block
 - The node is offline for an extended period of time
 - The node is shown to be malicious or misconfigured
