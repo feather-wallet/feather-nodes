@@ -62,6 +62,7 @@ mainnet:
       - node.trocador.app:18089
     xmr.ru:
       - node.xmr.ru:18081
+
 testnet:
   tor:
     plowsof:
@@ -78,6 +79,7 @@ testnet:
     sethforprivacy:
       - node.sethforprivacy.com:28089
       - node2.sethforprivacy.com:28089
+
 stagenet:
   tor:
     boldsuck:
