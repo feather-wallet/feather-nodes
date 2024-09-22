@@ -18,10 +18,12 @@
   website: "https://majesticbank.sc/"
 
 - host: ofrnxmr
+  github: nahuhh
   matrix: "@ofrnxmr:xmr.mx"
 
 - host: plowsof
   github: plowsof
+  matrix: "@plowsof:matrix.org"
 
 - host: ravfx
   matrix: "@ravfx:xmr.mx"
@@ -60,4 +62,6 @@
   reddit: witchofthewind
 
 - host: xmr.ru
+  email: "xmr.ru@protonmail.com"
+  github: xmr-ru
   website: "https://xmr.ru/"
