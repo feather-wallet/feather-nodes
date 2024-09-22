@@ -1,0 +1,63 @@
+---
+- host: boldsuck
+  github: boldsuck
+  reddit: boldsuck
+
+- host: cakewallet
+  email: "support@cakewallet.com"
+  twitter: cakewallet
+  website: "https://cakewallet.com/"
+
+- host: lza_menace
+  github: lalanza808
+  twitter: lza_menace
+  website: "https://lzahq.tech"
+
+- host: majesticbank
+  email: info@majesticbank.so
+  website: "https://majesticbank.sc/"
+
+- host: ofrnxmr
+  matrix: "@ofrnxmr:xmr.mx"
+
+- host: plowsof
+  github: plowsof
+
+- host: ravfx
+  matrix: "@ravfx:xmr.mx"
+
+- host: rino
+  email: "support@rino.io"
+  reddit: RINOwallet
+  twitter: RINOwallet
+  website: "https://www.rino.io/"
+
+- host: rucknium
+  github: Rucknium
+  matrix: "@rucknium:monero.social"
+  reddit: Rucknium
+  website: "https://rucknium.me/"
+
+- host: selsta
+  github: selsta
+
+- host: sethforprivacy
+  email: sethforprivacy.vqhyi@simplelogin.com
+  reddit: sethforprivacy
+  twitter: sethforprivacy
+  website: "https://sethforprivacy.com/"
+
+- host: stormycloud.org
+  email: "admin@stormycloud.org"
+  website: "https://stormycloud.org/"
+
+- host: trocador
+  email: "mail@trocador.app"
+  twitter: TrocadorApp
+  website: "https://trocador.app/"
+
+- host: witchofthewind
+  reddit: witchofthewind
+
+- host: xmr.ru
+  website: "https://xmr.ru/"
