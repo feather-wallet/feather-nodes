@@ -2,11 +2,14 @@
 boldsuck:
   github: boldsuck
   reddit: boldsuck
+  verification: "https://github.com/monero-project/monero/issues/8818#issuecomment-1518802397"
 
 cakewallet:
   email: "support@cakewallet.com"
+  github: cake-tech
   twitter: cakewallet
   website: "https://cakewallet.com/"
+  verification: "https://github.com/cake-tech/cake_wallet/blob/e2b3507134371487e923662142863c2a59a4e9c0/assets/node_list.yml"
 
 lza_menace:
   github: lalanza808
@@ -15,7 +18,9 @@ lza_menace:
 
 majesticbank:
   email: "info@majesticbank.so"
+  twitter: MajesticBank
   website: "https://majesticbank.sc/"
+  verification: "https://x.com/MajesticBank/status/1482360191404367881"
 
 ofrnxmr:
   github: nahuhh
@@ -24,6 +29,7 @@ ofrnxmr:
 plowsof:
   github: plowsof
   matrix: "@plowsof:matrix.org"
+  reddit: plowsof
 
 ravfx:
   matrix: "@ravfx:xmr.mx"
@@ -33,33 +39,41 @@ rino:
   reddit: RINOwallet
   twitter: RINOwallet
   website: "https://www.rino.io/"
+  verification: "https://www.rino.io/community/tools/nodes"
 
 rucknium:
   github: Rucknium
   matrix: "@rucknium:monero.social"
   reddit: Rucknium
   website: "https://rucknium.me/"
+  verification: "https://old.reddit.com/r/Monero/comments/1c2z577/a_couple_of_random_thought_regarding_the_flooding/kzdr1i5/?context=1"
 
 selsta:
   github: selsta
+  reddit: selsta
+  verification: "https://github.com/monero-project/monero-gui/issues/4202#issuecomment-1656997428"
 
 sethforprivacy:
   email: "sethforprivacy.vqhyi@simplelogin.com"
   reddit: sethforprivacy
   twitter: sethforprivacy
   website: "https://sethforprivacy.com/"
+  verification: "https://sethforprivacy.com/about/#high-performance-monero-nodes"
 
 stormycloud.org:
   email: "admin@stormycloud.org"
   website: "https://stormycloud.org/"
+  verification: "https://stormycloud.org/cryptocurrency/"
 
 trocador:
   email: "mail@trocador.app"
   twitter: TrocadorApp
   website: "https://trocador.app/"
+  verification: "https://monero.observer/trocador_app-5/"
 
 witchofthewind:
   reddit: witchofthewind
+  verification: "https://old.reddit.com/r/Monero/comments/ff6z12/tor_p2p_public_node_list/fkmh13c/"
 
 xmr.ru:
   email: "xmr.ru@protonmail.com"
