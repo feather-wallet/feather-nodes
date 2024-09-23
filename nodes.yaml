@@ -40,17 +40,21 @@ mainnet:
   clearnet:
     cakewallet:
       - xmr-node.cakewallet.com:18081
-    plowsof:
-      - node.monerodevs.org:18089
-      - node2.monerodevs.org:18089
-      - node3.monerodevs.org:18089
     lza_menace:
       - singapore.node.xmr.pm:18089
     majesticbank:
       - node.majesticbank.is:18089
       - node.majesticbank.at:18089
+    plowsof:
+      - node.monerodevs.org:18089
+      - node2.monerodevs.org:18089
+      - node3.monerodevs.org:18089
+    ravfx:
+      - 01.its-a-node.org:18081
     rino:
       - node.community.rino.io:18081
+    rucknium:
+      - rucknium.me:18081
     selsta:
       - selsta1.featherwallet.net:18081
       - selsta2.featherwallet.net:18081
@@ -58,10 +62,6 @@ mainnet:
       - node.sethforprivacy.com:18089
     stormycloud.org:
       - xmr.stormycloud.org:18089
-    ravfx:
-      - 01.its-a-node.org:18081
-    rucknium:
-      - rucknium.me:18081
     trocador:
       - node.trocador.app:18089
     xmr.ru:
