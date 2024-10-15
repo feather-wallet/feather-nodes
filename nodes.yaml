@@ -15,8 +15,6 @@ mainnet:
       - plowsofe6cleftfmk2raiw5h2x66atrik3nja4bfd3zrfa2hdlgworad.onion:18089
     ravfx:
       - 27ihnchx3loqzue7hekggodxpazfb3npcosfxzrar5fom4zapd6rgcad.onion:18081
-    rino:
-      - rino4muoj3zk223twblr53hwt4ukqemjqw4fbiwdcrqqevcrclpuzyyd.onion:18081
     rucknium:
       - rucknium757bokwv3ss35ftgc3gzb7hgbvvglbg3hisp7tsj2fkd2nyd.onion:18081
     selsta:
@@ -51,8 +49,6 @@ mainnet:
       - node3.monerodevs.org:18089
     ravfx:
       - 01.its-a-node.org:18081
-    rino:
-      - node.community.rino.io:18081
     rucknium:
       - rucknium.me:18081
     selsta:
@@ -72,14 +68,10 @@ testnet:
     plowsof:
       - plowsof3t5hogddwabaeiyrno25efmzfxyro2vligremt7sxpsclfaid.onion:28089
       - plowsoffjexmxalw73tkjmf422gq6575fc7vicuu4javzn2ynnte6tyd.onion:28089
-    rino:
-      - rino4tpcrisugb2pt7bhs7cwkrkoigf366aetuzyqkqcakaad7vijiid.onion:28081
   i2p:
   clearnet:
     lza_menace:
       - singapore.node.xmr.pm:28081
-    rino:
-      - testnet.community.rino.io:28081
     sethforprivacy:
       - node.sethforprivacy.com:28089
       - node2.sethforprivacy.com:28089
@@ -91,16 +83,12 @@ stagenet:
     plowsof:
       - plowsof3t5hogddwabaeiyrno25efmzfxyro2vligremt7sxpsclfaid.onion:38089
       - plowsoffjexmxalw73tkjmf422gq6575fc7vicuu4javzn2ynnte6tyd.onion:38089
-    rino:
-      - rino4sek7bzoqgkgsn5qxlsic3gk2mj23t3shcaj5axfyipjnyoql4ad.onion:38081
   i2p:
   clearnet:
     boldsuck:
       - xmr-lux.boldsuck.org:38081
     lza_menace:
       - singapore.node.xmr.pm:38081
-    rino:
-      - stagenet.community.rino.io:38081
     sethforprivacy:
       - node.sethforprivacy.com:38089
       - node2.sethforprivacy.com:38089

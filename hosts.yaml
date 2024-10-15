@@ -34,13 +34,6 @@ plowsof:
 ravfx:
   matrix: "@ravfx:xmr.mx"
 
-rino:
-  email: "support@rino.io"
-  reddit: RINOwallet
-  twitter: RINOwallet
-  website: "https://www.rino.io/"
-  verification: "https://www.rino.io/community/tools/nodes"
-
 rucknium:
   github: Rucknium
   matrix: "@rucknium:monero.social"
