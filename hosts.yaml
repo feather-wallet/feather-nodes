@@ -33,6 +33,7 @@ plowsof:
 
 ravfx:
   matrix: "@ravfx:xmr.mx"
+  verification: "https://matrix.to/#/%21mehPttlWNbDtNeDbvu%3Amonero.social/%24fFybtj9d5HkVdvz9w8UlnvIFFaX7cL82LVM8-WCedjI?via=matrix.org&via=monero.social&via=hackliberty.org"
 
 rucknium:
   github: Rucknium
