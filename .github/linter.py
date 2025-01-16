@@ -30,7 +30,7 @@ for net in ["mainnet", "testnet", "stagenet"]:
             if key not in hosts:
                 error(f"no host information defined in hosts.yaml for {key}")
 
-contact_keys = set({"email", "github", "matrix", "reddit", "twitter", "website"})
+contact_keys = {"email", "github", "matrix", "reddit", "twitter", "website"}
 verification_key = "verification"
 
 host_keys = list(hosts)
@@ -50,7 +50,7 @@ for host in hosts:
         # Not an error for now
 
     if verification_key not in contact_info:
-        warning(f"no verification URL for {host}")
+        warning(f"no verification URL(s) for {host}")
         # Not an error for now
 
 if has_errors:

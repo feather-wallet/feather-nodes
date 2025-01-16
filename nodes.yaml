@@ -15,6 +15,7 @@ mainnet:
       - plowsofe6cleftfmk2raiw5h2x66atrik3nja4bfd3zrfa2hdlgworad.onion:18089
     ravfx:
       - ravfxmrqgd4j2o2gdc2yaij2wcmkcflu2rdnzhng5htk5hgnh6gmyeid.onion:18081
+      - ravfxmrzi3eet62s4nkuu5sgpq6otgtffluk3ylb2kuvimtb34sonryd.onion:18089
     rucknium:
       - rucknium757bokwv3ss35ftgc3gzb7hgbvvglbg3hisp7tsj2fkd2nyd.onion:18081
     selsta:
@@ -49,6 +50,7 @@ mainnet:
       - node3.monerodevs.org:18089
     ravfx:
       - ravfx.its-a-node.org:18081
+      - ravfx2.its-a-node.org:18089
     rucknium:
       - rucknium.me:18081
     selsta:
