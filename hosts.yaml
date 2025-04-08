@@ -1,4 +1,9 @@
 ---
+baz:
+  email: baz@monero.love
+  github: monero-love
+  matrix: @baz:monero.social
+
 boldsuck:
   github: boldsuck
   reddit: boldsuck
