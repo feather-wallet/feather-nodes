@@ -40,6 +40,9 @@ mainnet:
       - vdmnehdjkpkg57nthgnjfuaqgku673r5bpbqg56ix6fyqoywgqrq.b32.i2p:18089
       - uqj3aphckqtjsitz7kxx5flqpwjlq5ppr3chazfued7xucv3nheq.b32.i2p:18089
       - ugnlcdciyhghh2zert7c3kl4biwkirc43ke33jiy5slnd3mv2trq.b32.i2p:18089
+    ravfx:
+      - ravfxmrg42nts5q65c33gyvs4gpb5n3a3wzzx3w2bes2hbkakfsa.b32.i2p:18081
+      - ravfxmresnvpybolnczn7wsju55c6jej3vo5hrnvcypugrdy4u6q.b32.i2p:18089
   clearnet:
     baz:
       - node3-us.monero.love:18081
