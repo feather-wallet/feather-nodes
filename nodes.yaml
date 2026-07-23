@@ -18,9 +18,6 @@ mainnet:
       - ravfxmrzi3eet62s4nkuu5sgpq6otgtffluk3ylb2kuvimtb34sonryd.onion:18089
     rucknium:
       - rucknium757bokwv3ss35ftgc3gzb7hgbvvglbg3hisp7tsj2fkd2nyd.onion:18081
-    selsta:
-      - mhfsxznn5pi4xuxohj5k7unqp73sa6d44mbeewbpxnm25z3wzfogcfyd.onion:18081
-      - 7inib34hqn2ocmlaaxjshdavbdn5w5rfdff735lbz33765j2pz3tn4ad.onion:18081
     sethforprivacy:
       - sfprpc2fws6ltnq4hyr7lvpul3nank5layd7q7tyc5h4gy4h77gtabad.onion:18089
     stormycloud.org:
@@ -56,9 +53,6 @@ mainnet:
       - ravfx2.its-a-node.org:18089
     rucknium:
       - rucknium.me:18081
-    selsta:
-      - selsta1.featherwallet.net:18081
-      - selsta2.featherwallet.net:18081
     sethforprivacy:
       - node.sethforprivacy.com:18089
     stormycloud.org:
