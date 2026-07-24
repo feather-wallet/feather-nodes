@@ -20,8 +20,6 @@ mainnet:
       - sfprpc2fws6ltnq4hyr7lvpul3nank5layd7q7tyc5h4gy4h77gtabad.onion:18089
     stormycloud.org:
       - a6orjo6aiotog3njppja5jwnd3rexzfjiejxnojvw74p3kma45fundid.onion:18089
-    trocador:
-      - trocadorh642rks54sxufwy4kys23mrsgof3axowyro5ljb2dkgdlmad.onion:18089
     witchofthewind:
       - moneroxmrxw44lku6qniyarpwgznpcwml4drq7vb24ppatlcg4kmxpqd.onion:18089
   i2p:
@@ -55,8 +53,6 @@ mainnet:
       - node.sethforprivacy.com:18089
     stormycloud.org:
       - xmr.stormycloud.org:18089
-    trocador:
-      - node.trocador.app:18089
     xmr.ru:
       - node.xmr.ru:18081
 

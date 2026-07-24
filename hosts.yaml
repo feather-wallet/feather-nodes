@@ -54,12 +54,6 @@ stormycloud.org:
   website: "https://stormycloud.org/"
   verification: "https://stormycloud.org/cryptocurrency/"
 
-trocador:
-  email: "mail@trocador.app"
-  twitter: TrocadorApp
-  website: "https://trocador.app/"
-  verification: "https://monero.observer/trocador_app-5/"
-
 witchofthewind:
   reddit: witchofthewind
   verification: "https://old.reddit.com/r/Monero/comments/ff6z12/tor_p2p_public_node_list/fkmh13c/"
