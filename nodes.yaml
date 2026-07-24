@@ -53,8 +53,6 @@ mainnet:
       - node.sethforprivacy.com:18089
     stormycloud.org:
       - xmr.stormycloud.org:18089
-    xmr.ru:
-      - node.xmr.ru:18081
 
 testnet:
   tor:
