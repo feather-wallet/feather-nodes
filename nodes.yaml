@@ -3,8 +3,6 @@ mainnet:
   tor:
     baz:
       - loveanvthlsepingenr7opdqy6nlhn5jidwvzzxfmwsw2rry5mn2gfqd.onion:18089
-      - dtrnd4in2igrtfx2c45ghf2drns3doddmcsfy6b5gjw5iinukd33slqd.onion:18081
-      - 3vjfahy3dk4znsicambgluiaa5whqb364skmsq5os7bnxjhbavbawqad.onion:18089
     boldsuck:
       - ip4zpbps7unk6xhlanqtw24f75akfbl3upeckfjqjks7ftfnk4i73oid.onion:18081
     plowsof:
@@ -35,7 +33,6 @@ mainnet:
   clearnet:
     baz:
       - node3-us.monero.love:18081
-      - node2-eu.monero.love:18089
     cakewallet:
       - xmr-node.cakewallet.com:18081
     plowsof:
