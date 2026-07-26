@@ -16,6 +16,8 @@ mainnet:
       - rucknium757bokwv3ss35ftgc3gzb7hgbvvglbg3hisp7tsj2fkd2nyd.onion:18081
     stormycloud.org:
       - a6orjo6aiotog3njppja5jwnd3rexzfjiejxnojvw74p3kma45fundid.onion:18089
+    wagyu:
+      - 6zf55wrcl3k7i7hn4i7dgvupd5nqaieiehm2m5srlvflxz4zb2i7zgid.onion:18089
     witchofthewind:
       - moneroxmrxw44lku6qniyarpwgznpcwml4drq7vb24ppatlcg4kmxpqd.onion:18089
   i2p:
@@ -48,6 +50,8 @@ mainnet:
       - node.sethforprivacy.com:18089
     stormycloud.org:
       - xmr.stormycloud.org:18089
+    wagyu:
+      - node.wagyu.xyz:18089
 
 testnet:
   tor:
