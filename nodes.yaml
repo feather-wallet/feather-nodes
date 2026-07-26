@@ -16,8 +16,6 @@ mainnet:
       - ravfxmrzi3eet62s4nkuu5sgpq6otgtffluk3ylb2kuvimtb34sonryd.onion:18089
     rucknium:
       - rucknium757bokwv3ss35ftgc3gzb7hgbvvglbg3hisp7tsj2fkd2nyd.onion:18081
-    sethforprivacy:
-      - sfprpc2fws6ltnq4hyr7lvpul3nank5layd7q7tyc5h4gy4h77gtabad.onion:18089
     stormycloud.org:
       - a6orjo6aiotog3njppja5jwnd3rexzfjiejxnojvw74p3kma45fundid.onion:18089
     witchofthewind:
@@ -63,7 +61,6 @@ testnet:
   clearnet:
     sethforprivacy:
       - node.sethforprivacy.com:28089
-      - node2.sethforprivacy.com:28089
 
 stagenet:
   tor:
@@ -78,4 +75,3 @@ stagenet:
       - xmr-lux.boldsuck.org:38081
     sethforprivacy:
       - node.sethforprivacy.com:38089
-      - node2.sethforprivacy.com:38089
